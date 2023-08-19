@@ -4,7 +4,11 @@ body {
     height: 100vh;
     margin: 0;
     color: #f5f6f7;
+<<<<<<< HEAD
     font-family: 'Times New Roman', Times, serif;
+=======
+    font-family: Times New Roman;
+>>>>>>> 4277311cca62aeca6f70aa4a2a79ada64953e044
     font-size: 16px;
 }
 
@@ -37,7 +41,11 @@ label {
 
 input, textarea, select {
     width: 98%;
+<<<<<<< HEAD
     margin: 10px 0  0 0;
+=======
+    margin: 10px 0 0 0;
+>>>>>>> 4277311cca62aeca6f70aa4a2a79ada64953e044
     min-height: 2em;
 }
 
